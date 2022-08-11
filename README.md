@@ -16,6 +16,7 @@
 # Challenge#1
 
 This module makes it easy to deploy resources for 3 tier architecture using terraform IaC tool.
+Used Module Structure for creating terraform code.
 
 - One compute Engine
 - Cloud storage bucket
