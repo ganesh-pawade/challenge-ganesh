@@ -1,0 +1,4 @@
+/* GLOBAL */
+project_id   = "client-project-id"
+region       = "client-region"
+vpc_name     = "client-prod-vpc"
