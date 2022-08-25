@@ -4,7 +4,7 @@
 
 | Name | Description | SelfLink
 |------|-------------|------|
-| Challenge#1 | 3 Tier Environment Deployment | [Terraform](https://github.com/ganesh-pawade/kpmg/tree/main/gcp-terraform-skeleton) |
+| Challenge#1 | 3 Tier Environment Deployment | [Terraform](https://github.com/ganesh-pawade/challenge-ganesh/tree/main/gcp-terraform-skeleton) |
 | | Sample Architecture Diagram | [Architecture_diag](https://github.com/ganesh-pawade/challenge-ganesh/blob/main/gp-sample-drawio.pdf) |
 | Challenge#2 | MetaData of Instance | [Metadata_script](https://github.com/ganesh-pawade/challenge-ganesh/blob/main/gcp-terraform-skeleton/env/prod/regional_resources/us-central1/gce_groups/app_group/main.tf) |
 | Challenge#3 | Nested Object Script | [Shell_script](https://github.com/ganesh-pawade/challenge-ganesh/blob/main/Nested%20object%20script/script.sh) |
