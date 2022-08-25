@@ -7,7 +7,7 @@
 | Challenge#1 | 3 Tier Environment Deployment | [Terraform](https://github.com/ganesh-pawade/kpmg/tree/main/gcp-terraform-skeleton) |
 | | Sample Architecture Diagram | [Architecture_diag](https://github.com/ganesh-pawade/kpmg/blob/main/gp-sample-drawio.pdf) |
 | Challenge#2 | MetaData of Instance | [Metadata_script](https://github.com/ganesh-pawade/challenge-ganesh/blob/main/gcp-terraform-skeleton/env/prod/regional_resources/us-central1/gce_groups/app_group/main.tf) |
-| Challenge#3 | Nested Object Script | [Shell_script](https://github.com/ganesh-pawade/kpmg/tree/main/Nested%20object%20script) |
+| Challenge#3 | Nested Object Script | [Shell_script](https://github.com/ganesh-pawade/challenge-ganesh/blob/main/Nested%20object%20script/script.sh) |
 
 ![image](https://user-images.githubusercontent.com/55939521/184165565-c2d63dd2-d9f6-4211-916b-8327b6270b21.png)
 
